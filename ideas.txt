@@ -1,2 +1,5 @@
 Ideas for the new game can go in here
 -------------------------------------
+
+Jester mode
+-There is crewmates, an imposter and a jester. The crewmates and imposter have their obvious tasks, but the jester has a special one. They must try to get voted out as best they can. They want people to think they are the imposter. If crewmates vote them out, the crewmates lose.
