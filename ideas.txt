@@ -3,3 +3,5 @@ Ideas for the new game can go in here
 
 Jester mode
 -There is crewmates, an imposter and a jester. The crewmates and imposter have their obvious tasks, but the jester has a special one. They must try to get voted out as best they can. They want people to think they are the imposter. If crewmates vote them out, the crewmates lose.
+Procedurally generated levels
+-Randomly select rooms, randomly select a possition to put them in, use some sort of pathfinding to create hallways based on the room locations.
