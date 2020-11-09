@@ -6,3 +6,4 @@ Project started 03/11/2020
 # Code Formatting
 
 To maintain good quality and clean code, all code must abide by the following format:
+Not be bad
